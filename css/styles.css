@@ -1,0 +1,37 @@
+/* tag selecter */
+body{
+    background-color: rgb(249, 192, 255);
+}
+
+/* กำหนดจุดไข่ปลา */
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkred;
+    border-width: 5px;
+    width: 50%;
+}
+/* h1 สีเขียว */
+h1{
+    color: green;
+}
+/* p สีอะไรก็ได้ */
+p{
+    color: deeppink;
+}
+img{
+    background-color: blue;
+}
+
+/* class selecter */
+.tomato{
+    background-color: yellow;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: tomato;
+}
